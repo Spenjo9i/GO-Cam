@@ -779,6 +779,13 @@ header .icons .menu-bars{
     .btn2{
     font-size: 1.7rem;
     }
+     .cards{
+     height: 29rem;
+     gap: .5rem;
+ }
+ .cards > div:hover {
+     flex: 30;
+ }
 }
 @media (max-width:991px){ 
     html{
