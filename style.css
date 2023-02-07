@@ -141,7 +141,7 @@ header .icons .menu-bars{
     display: flex;
 }
 form #search-box{
-    width: 50rem;
+    width: 40rem;
     border-bottom: .5rem solid var(--red);
     border-radius: .5rem;
     padding: 1rem 1rem;
@@ -764,6 +764,20 @@ header .icons .menu-bars{
     }
     .home .home-slider .slide .content h3{
         font-size: 5rem;
+    }
+    form #search-box{
+    width: 32rem;
+    font-size: 1.9rem;
+    padding: .8rem .8rem;
+    }
+    form label{
+    font-size: 2.7rem;
+    }
+    form label:hover{
+    font-size: 3rem;
+    }
+    .btn2{
+    font-size: 1.7rem;
     }
 }
 @media (max-width:991px){ 
