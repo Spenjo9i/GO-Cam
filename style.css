@@ -68,7 +68,7 @@ section:nth-child(even){
 }
 .btn:hover{
     background: var(--red);
-    letter-spacing: .18rem;
+    letter-spacing: .12rem;
 }
 .btn2{
     margin-top: 1rem;
